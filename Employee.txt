@@ -1,0 +1,6 @@
+create table Employee(empid int,empname String,empsal int,emppdob DateTime,emploc String)
+insert into Employee values(2346,"amar",33000,3-05-1995,"hyderabad");
+insert into Employee values(5678,"ayush",45000,4-09-1998,"banglore");
+insert into Employee values(3490,"sree",58000,25-11-1999,"pune");
+insert into employee values(2358,"pinky",38000,12-03-2001,"chennai");
+

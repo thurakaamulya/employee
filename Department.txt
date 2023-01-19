@@ -1,0 +1,5 @@
+create table Department(depid int,depname String,deploc String)
+insert into Department values(0987,"HR","hyderabad");
+insert into Department values(0767,"Admin","banglore");
+insert into Department values(0456,"Manager","pune");
+insert into Department values(0235,"pinky","chennai");
